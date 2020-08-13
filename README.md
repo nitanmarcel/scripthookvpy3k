@@ -33,7 +33,7 @@ code and a link to our to do list.
   Python part of the plugin
 
 ### Todo
-See [TODO.md](/TODO.md).
+See [TODO.md](/TOO.md).
 
 ## Building
 If you want to build the ASI plugin yourself, you'll need:
